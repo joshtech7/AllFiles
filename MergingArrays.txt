@@ -1,0 +1,16 @@
+import java.util.Arrays;
+
+public class MergingArrays{
+	public static void main(String[] args){
+	int [] number1 = {1,2,3,4,5,6};
+	int [] number2 = {7,8,9,10,11,12};
+	int [] number3 = {13,14,15,16,17,18};
+
+	int [] myList = new int [number1.length + number2.length + number3.length];
+
+	for(int index = 0; index <= number1.length; index++){
+	
+	}
+
+  }
+}
